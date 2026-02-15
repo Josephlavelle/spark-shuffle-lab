@@ -1,0 +1,17 @@
+# sbt
+target/
+project/target/
+project/project/
+
+# IDE
+.idea/
+.bsp/
+.metals/
+.vscode/
+
+# Data and logs (regenerated)
+data/
+spark-events/
+
+# OS
+.DS_Store
